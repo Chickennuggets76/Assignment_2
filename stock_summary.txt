@@ -1,1 +1,2 @@
-
+Mean Closing Price,Highest Closing Price,Lowest Closing Price,Number of Days Price Increased
+73.4333333333333,288,0,15
