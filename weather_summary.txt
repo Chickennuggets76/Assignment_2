@@ -1,1 +1,2 @@
-
+Average Temperature,Average Humidity,Average Precipitation
+24.3,70,10
